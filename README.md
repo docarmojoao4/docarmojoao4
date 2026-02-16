@@ -4,8 +4,7 @@
 <p align="left">
 </p>
 
-![GitHub Stats](github-readme-stats-2lp7lbbhg-joaos-projects-38e62554.vercel.app/api?username=docarmojoao4&show_icons=true&theme=chartreuse-dark)
-![Top Langs](github-readme-stats-2lp7lbbhg-joaos-projects-38e62554.vercel.app/api/top-langs/?username=docarmojoao4&layout=compact&theme=chartreuse-dark)
+
 
 
 
