@@ -4,8 +4,8 @@
 <p align="left">
 </p>
 
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=docarmojoao4&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=docarmojoao4&layout=compact&theme=chartreuse-dark)
+![GitHub Stats](github-readme-stats-2lp7lbbhg-joaos-projects-38e62554.vercel.app/api?username=docarmojoao4&show_icons=true&theme=chartreuse-dark)
+![Top Langs](github-readme-stats-2lp7lbbhg-joaos-projects-38e62554.vercel.app/api/top-langs/?username=docarmojoao4&layout=compact&theme=chartreuse-dark)
 
 
 
